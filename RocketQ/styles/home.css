@@ -36,6 +36,15 @@ main h2{
     margin-bottom: 2.4rem;
 }
 
+
 input{
-    border: .2rem solid var(--grey-blue)
+    border: .2rem solid var(--grey-blue);
+    padding: 0 1.6rem;
+   
+
+}
+
+input, button, .button{
+    width: 100%;
+    margin-bottom: 1.8rem;
 }
