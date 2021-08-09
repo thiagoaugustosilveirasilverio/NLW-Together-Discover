@@ -26,6 +26,7 @@ html{
 } 
 
 body{
+    display: flexbox;
     height: 100vh; /*view height = 100% altura total que será ocupada verticalmente*/
     background: var(--background);
 
