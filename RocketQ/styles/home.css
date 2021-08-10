@@ -16,7 +16,12 @@ header{
     grid-area: left;
     background: url('/RocketQ/assets/home-bg-img.svg') no-repeat top/contain;
     background-position-x: -10rem;
-    
+   
+    top: -46rem;
+    width: 63.3rem;
+
+    right: -35rem;
+    height: 63.3rem;
 }
 
 main{
@@ -28,6 +33,7 @@ main{
 
 main .container{
     width: min(36.3rem, 100%);
+    margin-bottom: 30.4rem;
 }
 
 main h2{
